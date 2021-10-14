@@ -830,5 +830,13 @@
     "symbol": "ALPHA",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x0B048D6e01a6b9002C291060bF2179938fd8264c/logo.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x8DF26a1BD9bD98e2eC506fc9d8009954716A05DC",
+    "name": "PolyPup Finance",
+    "symbol": "COLLAR",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x8DF26a1BD9bD98e2eC506fc9d8009954716A05DC/logo.png"
   }
 ]
